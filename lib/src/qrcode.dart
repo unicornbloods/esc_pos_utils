@@ -6,8 +6,9 @@
  * See LICENSE for distribution and usage details.
  */
 
-import 'package:esc_pos_utils/src/commands.dart';
 import 'dart:convert';
+
+import 'package:esc_pos_utils_updated/src/commands.dart';
 
 class QRSize {
   const QRSize(this.value);
